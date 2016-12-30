@@ -19,6 +19,7 @@ namespace OliviaFirst
             Console.WriteLine("Your answer is");
             Console.WriteLine(firstNumber*secondNumber);
 
+
             // Keep the console window open in debug mode.
              Console.ReadKey();
         }

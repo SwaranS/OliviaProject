@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>OliviaFirst.Multiply</StartupObject>
+    <StartupObject>OliviaFirst.guessMyAge</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -65,6 +65,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="isItTrue.cs" />
     <Compile Include="Multiply.cs" />
     <Compile Include="SayingHello.cs" />
     <Compile Include="MainWindow.xaml.cs">
