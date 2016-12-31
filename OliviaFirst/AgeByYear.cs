@@ -10,7 +10,7 @@ namespace OliviaFirst
     {
         static void Main() {
             Console.WriteLine("HELLO WORLD");
-            int currentYear = 2016;
+            int currentYear = 2017;
             Console.WriteLine(currentYear);
             Console.WriteLine("what year were you born?");
 
